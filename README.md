@@ -279,7 +279,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![image](https://github.com/rizwanrayyan/Calc/assets/121215820/782ec796-089f-4633-b1cd-fbc057a651c6)
+![image](https://github.com/Selvakumar525/Calc/assets/120643262/0cd1a420-6064-4b7d-85b4-c9bd2f73ce3e)
+
 
 
 ## RESULT:
